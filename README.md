@@ -11,6 +11,9 @@ Compartiremos toda la información a medida que crezcamos todo el mundo es bienv
 # Retos de Programación
 Pequeños retos de programación para mejorar nuestras habilidades y poder enfrentar entrevistas técnicas.
 Todas las semanas se añadiran nuevos retos en los repositorios y los restos de la semana anterior se resolverá en GitHub y Twitch.
+
+[![GitHub Followers](https://img.shields.io/github/stars/codigoRonin/retos-programacion?label=Repositorio%20retos%20de%20programación&style=social)](https://github.com/codigoRonin/retos-programacion)
+
 # Links
 [![youtube](https://user-images.githubusercontent.com/107611682/177044711-c30fe104-79fd-4a74-aa3e-2e7bf9aba443.jpg)](https://www.youtube.com/channel/UCufTc7taro7_Rd5vCIsRbHA)
 [![twitch canal](https://user-images.githubusercontent.com/107611682/177045344-a72304d5-0bc5-4b7f-92b9-c45dc1d6eabd.png)](https://twitch.tv/codigoronin)
