@@ -8,9 +8,9 @@ Compartiremos toda la información a medida que crezcamos todo el mundo es bienv
 
 **¡Compartir, aprender, evolucionar, "be water my friend"!**
 
-# Retos de Programación
+# El Almacén de la Programación
 Pequeños retos de programación para mejorar nuestras habilidades y poder enfrentar entrevistas técnicas.
-Todas las semanas se añadiran nuevos retos en los repositorios y los restos de la semana anterior se resolverá en GitHub y Twitch.
+Se añadiran nuevos retos en los repositorios de forma periódica y pasado un tiempo se subirán resueltops a GitHub.
 
 [![GitHub Followers](https://img.shields.io/github/stars/codigoRonin/retos-programacion?label=Repositorio%20-%20retos%20de%20programación&style=social)](https://github.com/codigoRonin/retos-programacion)
 
