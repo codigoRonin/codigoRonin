@@ -8,7 +8,7 @@ Compartiremos toda la información a medida que crezcamos todo el mundo es bienv
 
 **¡Compartir, aprender, evolucionar, "be water my friend"!**
 
-# El Almacén de la Programación
+# El Almacén de Programación
 Pequeños retos de programación para mejorar nuestras habilidades y poder enfrentar entrevistas técnicas.
 Se añadiran nuevos retos en los repositorios de forma periódica y pasado un tiempo se actualizarán con las soluciones a GitHub.
 
