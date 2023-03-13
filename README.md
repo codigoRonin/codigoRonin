@@ -12,7 +12,7 @@ Compartiremos toda la información a medida que crezcamos todo el mundo es bienv
 Pequeños retos de programación para mejorar nuestras habilidades y poder enfrentar entrevistas técnicas.
 Se añadiran nuevos retos en los repositorios de forma periódica y pasado un tiempo se actualizarán con las soluciones a GitHub.
 
-[![GitHub Followers](https://img.shields.io/github/stars/codigoRonin/retos-programacion?label=Repositorio%20-%20almacens%20de%20programación&style=social)](https://github.com/codigoRonin/retos-programacion)
+[![GitHub Followers](https://img.shields.io/github/stars/codigoRonin/retos-programacion?label=Repositorio%20-%20almacen%20de%20programación&style=social)](https://github.com/codigoRonin/retos-programacion)
 
 # Links
 [![github](https://user-images.githubusercontent.com/107611682/177045555-1c65a1d0-d637-4025-be08-1198c4b6f8af.png)](https://github.com/codigoRonin)
