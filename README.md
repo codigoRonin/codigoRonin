@@ -8,12 +8,6 @@ Compartiremos todo lo que aprendamos a medida que crezcamos: todo el mundo es bi
 
 **¡Compartir, aprender, evolucionar, "be water my friend"!**
 
-# El Almacén de Programación
-Pequeños retos de programación para mejorar nuestras habilidades y poder enfrentar entrevistas técnicas.
-Se añadirán nuevos retos de forma periódica y, pasado un tiempo, se publicarán sus soluciones.
-
-[![Almacén de Programación](https://img.shields.io/github/stars/codigoRonin/Almacen_de_Programacion?label=Repositorio%20-%20almac%C3%A9n%20de%20programaci%C3%B3n&style=social)](https://github.com/codigoRonin/Almacen_de_Programacion)
-
 # Apuntes DAW
 Material del Ciclo Formativo de Grado Superior en **Desarrollo de Aplicaciones Web**: Bases de Datos, Desarrollo Web en Entorno Servidor y Big Data e Inteligencia Artificial. Teoría, ejemplos y actividades organizados por unidades, que se van publicando a lo largo del curso.
 
@@ -25,6 +19,12 @@ Y con ellos, todo lo necesario para trabajarlos: datasets, scripts y ficheros de
 
 [![Apuntes DAW](https://img.shields.io/github/stars/codigoRonin/apuntes-daw?label=Repositorio%20-%20apuntes%20DAW&style=social)](https://github.com/codigoRonin/apuntes-daw)
 [![Recursos DAW](https://img.shields.io/github/stars/codigoRonin/recursos-daw?label=Repositorio%20-%20recursos%20DAW&style=social)](https://github.com/codigoRonin/recursos-daw)
+
+# El Almacén de Programación
+Pequeños retos de programación para mejorar nuestras habilidades y poder enfrentar entrevistas técnicas.
+Se añadirán nuevos retos de forma periódica y, pasado un tiempo, se publicarán sus soluciones.
+
+[![Almacén de Programación](https://img.shields.io/github/stars/codigoRonin/Almacen_de_Programacion?label=Repositorio%20-%20almac%C3%A9n%20de%20programaci%C3%B3n&style=social)](https://github.com/codigoRonin/Almacen_de_Programacion)
 
 # «For Noobs»: desde cero
 Para empezar un lenguaje sin saber nada y llegar a escribir código propio, paso a paso.
